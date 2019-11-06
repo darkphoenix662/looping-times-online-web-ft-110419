@@ -1,6 +1,6 @@
 def using_times
 	7.times do 
-	  puts 7.times 
+	  puts  
 	#your code here
 end
 
